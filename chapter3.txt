@@ -1,1 +1,2 @@
 this is chapter 3.
+This is an addition to chapter 3.
